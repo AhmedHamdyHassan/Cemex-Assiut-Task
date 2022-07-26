@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348892437788",
+    "project_id": "cemex-push-notification",
+    "storage_bucket": "cemex-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348892437788:android:9b6f96858b8f5155a7aed9",
+        "android_client_info": {
+          "package_name": "com.example.cemex_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348892437788-tkqh5g7jrd8qe258cssd7rk0p049aove.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpH8PUX0VML5dPjg63LUKuqmTaWq4VKw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348892437788-tkqh5g7jrd8qe258cssd7rk0p049aove.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
